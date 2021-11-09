@@ -1,0 +1,19 @@
+.tab {
+    background-color: #c60001;
+    padding: 5px 10px;
+    color: #fff;
+    border-radius: 10px;
+    margin: 0 10px;
+}
+
+.imgsec {
+    overflow: auto;
+    > div {
+        margin: 0 10px;
+    }
+}
+
+.err {
+    color: red;
+    font-weight: bold;
+}
